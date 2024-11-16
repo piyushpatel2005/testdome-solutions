@@ -4,3 +4,5 @@ This repository contains solutions to TestDome's practice questions. TestDome of
 often used by job interviewers. The solutions are provided in Java and SQL.
 
 ## [SQL Solutions](src/main/sql/README.md)
+
+## [Java Solutions](src/main/java/README.md)
